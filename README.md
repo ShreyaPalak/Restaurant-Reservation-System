@@ -2,11 +2,6 @@
 
 A full-stack web app that enables customers to browse restaurants, see real‑time seating availability, and book reservations, while restaurant owners manage bookings and capacity.
 
-## Demo
-
-Visit the live version: https://restaurant‑reservation‑system‑2wnb.vercel.app/
-
----
 
 ## Table of Contents
 

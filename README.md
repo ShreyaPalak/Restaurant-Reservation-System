@@ -67,12 +67,6 @@ npm install
   ├── pages/
   └── context/
 
-----------
-## License
-
-This project is released under the **MIT License**.
-
----
 
 ## Credits & References
 
